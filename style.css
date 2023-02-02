@@ -369,14 +369,4 @@ img {
         margin: 40px 170px;
         transition: all .50s ease;
     }
-    .container-4 {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-gap: 0px;
-        align-items: center;
-        justify-content: center;
-        background: linear-gradient(#DA4453, #89216B);
-        margin: 100px 0px -18px -8px;
-        height: 1100px;
-    }
 }
