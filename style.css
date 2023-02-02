@@ -372,7 +372,7 @@ img {
     .container-4 {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        grid-gap: 5px;
+        grid-gap: 0px;
         align-items: center;
         justify-content: center;
         background: linear-gradient(#DA4453, #89216B);
