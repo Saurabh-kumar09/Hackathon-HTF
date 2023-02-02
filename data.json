@@ -1,0 +1,45 @@
+{
+    "Blood Bank Directory": [{
+            "name": "Acharya Anandrishiji Blood Centre, Pune",
+            "address": "191/192, Sadashiv Peth, S.M.Joshi Foundation Bldg. Near Patrakar Bhavan, Pune, Dist. Pune",
+            "contact": "8554909040,020-24537627",
+            "email": "aapunebloodbank@gmail.com",
+            "category": "Charitable"
+        },
+        {
+            "name": "M/S Pimpri Chinchwad Blood Centre",
+            "address": "Mhada commercial complex,2nd floor above dakshin hotelSant Tukaram Nagar, Pimpri,, Pimpri, Pune, Maharashtra",
+            "contact": "7559419137",
+            "email": "bloodbankpc@gmail.com",
+            "category": "Charitable"
+        },
+        {
+            "name": "Chakan Blood Centre",
+            "address": "Sr. No. 4976/1/2 Gate No.2401, Yashwantnagar Ambethan Road. A/P Chakan, Tal.khed,, Pune, Pune, Maharashtra",
+            "contact": "9975564130,9021868968",
+            "email": "bloodbankchakan@gmail.com",
+            "category": "Charitable"
+        },
+        {
+            "name": "Sasoon Blood Centre Pune",
+            "address": "Ground Floor,Section 5, Opp.Ambedkar Chawk,Station Rd,, Pune, Pune, Maharashtra",
+            "contact": "9423575986, 020-26128000",
+            "email": "bjmc.bloodbank@gmail.com",
+            "category": "Government"
+        },
+        {
+            "name": "Padmashree Dr.D.Y Patil (Vishweshwar) Blood Centre",
+            "address": "Padmashree, Dr. Dy. Patil Medical College Hospital , Sant Tukaram Nagar, Pimpari,, Pune, Pune, Maharashtra",
+            "contact": "9561792418,020-27423844",
+            "email": "vishweshwar.vbb@rediffmail.com",
+            "category": "Charitable"
+        },
+        {
+            "name": "Muktai Blood Centre of Shivpooja Bahuudeshiya Shikhan Prasarak Mandal Solapur",
+            "address": "Muktai Blood Centre of Shivpooja Bahuudeshiya Shikhan Prasarak Mandal Solapur",
+            "contact": "9422341380",
+            "email": "muktaibloodcenter@gmail.com",
+            "category": "Charitable"
+        }
+    ]
+}
