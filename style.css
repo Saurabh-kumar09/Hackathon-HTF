@@ -295,7 +295,7 @@ img {
     }
     .container-2 {
         display: block;
-        margin: 40px 250px;
+        margin: 40px 350px;
         padding: 0px 25px;
         width: 300px;
         transition: all .50s ease;
@@ -312,7 +312,7 @@ img {
         grid-gap: 30px;
         width: 150px;
         padding: 15px 5px;
-        margin: 40px 300px;
+        margin: 40px 400px;
         transition: all .50s ease;
     }
 }
@@ -349,7 +349,7 @@ img {
     }
     .container-2 {
         display: block;
-        margin: 40px 250px;
+        margin: 40px 120px;
         padding: 0px 25px;
         width: 300px;
         transition: all .50s ease;
@@ -366,7 +366,7 @@ img {
         grid-gap: 30px;
         width: 150px;
         padding: 15px 5px;
-        margin: 40px 200px;
+        margin: 40px 150px;
         transition: all .50s ease;
     }
 }
