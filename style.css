@@ -349,14 +349,14 @@ img {
     }
     .container-2 {
         display: block;
-        margin: 40px 110px;
+        margin: 60px 110px;
         padding: 0px 25px;
         width: 300px;
         transition: all .50s ease;
     }
     .box-1,
     .box-2 {
-        padding: 25px 0px;
+        padding: 20px 0px;
         margin-top: 30px;
         transition: .2s;
     }
